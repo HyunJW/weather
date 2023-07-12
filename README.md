@@ -9,7 +9,7 @@
 
 ## 사용한 언어 및 라이브러리
 - Python
-  - Pandas, Numpy, Matplotlib, BeutifulSoup, statsmodels, keras
+  - Pandas, Numpy, Matplotlib, BeautifulSoup, Selenium, statsmodels, keras
 - R
   
 ## 데이터 분석
